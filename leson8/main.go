@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"leson8/config/confg"
+	"leson8/config/config"
 	"os"
 )
 
