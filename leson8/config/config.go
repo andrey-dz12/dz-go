@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"github.com/kelseyhightower/envconfig"
-	"conf.yaml.v2"
+	"conf.yaml"
 )
 
 // Struct for conf from example
